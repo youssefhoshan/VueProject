@@ -27,7 +27,7 @@
     <li>Clone the repository:</li>
     <pre><code>git clone https://github.com/youssefhoshan/VueProject</code></pre>
     <li>Install the dependencies:</li>
-    <pre><code>cd your-repo
+    <pre><code>cd VueProject
 composer install
 npm install</code></pre>
     <li>Configure the environment variables:</li>
