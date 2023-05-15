@@ -34,7 +34,7 @@ npm install</code></pre>
     <pre><code>cp .env.example .env
 php artisan key:generate</code></pre>
     <li>Update the database configuration in the `.env` file:</li>
-    <pre><code>DB_CONNECTION=mysql
+    <pre><code>
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
